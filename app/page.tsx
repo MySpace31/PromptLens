@@ -1098,7 +1098,7 @@ export default function Home() {
           <div className="flex items-center gap-6 text-gray-400">
             <span className="hover:text-gray-200 cursor-pointer">Privacy Policy</span>
             <span className="hover:text-gray-200 cursor-pointer">Terms of Service</span>
-            <span className="hover:text-gray-200 cursor-pointer">Powered by Inkling AI</span>
+            <span className="hover:text-gray-200 cursor-pointer">Powered by PromptLens</span>
           </div>
         </div>
 
