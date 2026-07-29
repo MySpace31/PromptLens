@@ -339,7 +339,7 @@ export default function Home() {
   const faqItems = [
     {
       q: "Can PromptLens AI recover the exact original prompt?",
-      a: "No AI tool can guarantee the exact string originally typed by the creator. However, PromptLens AI uses NVIDIA Inkling AI Vision to reverse-engineer the visual metadata (subject, camera angle, lens, lighting, style, rendering tags) and generates a structured prompt that reproduces a visually identical high-quality result."
+      a: "No AI tool can guarantee the exact string originally typed by the creator. However, PromptLens AI uses Inkling AI Vision to reverse-engineer the visual metadata (subject, camera angle, lens, lighting, style, rendering tags) and generates a structured prompt that reproduces a visually identical high-quality result."
     },
     {
       q: "Are my uploaded images saved or stored on a server?",
