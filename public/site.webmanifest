@@ -1,0 +1,14 @@
+{
+  "name": "PromptLens AI - Image to Prompt Generator",
+  "short_name": "PromptLens AI",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#07090e",
+  "background_color": "#07090e",
+  "display": "standalone"
+}
