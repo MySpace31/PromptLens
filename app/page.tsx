@@ -377,7 +377,7 @@ export default function Home() {
                 PromptLens <span className="text-indigo-400 font-extrabold">AI</span>
               </span>
               <span className="hidden sm:inline-block ml-2 text-xs px-2 py-0.5 rounded-full bg-indigo-500/10 text-indigo-300 border border-indigo-500/20">
-                Inkling Vision Powered
+               
               </span>
             </div>
           </div>
